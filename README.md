@@ -1,2 +1,1 @@
-# CGD
-Code for paper "Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval"
+Official implementation of "Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval". [Code coming soon]
