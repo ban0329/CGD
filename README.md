@@ -23,7 +23,7 @@ Official PyTorch implementation of the paper **"Correlation Guided Multi-Teacher
 ## 🛠️ Method
 The overall framework of our proposed CGD method is illustrated below:
 
-![Framework](assets/framework.png)
+![Framework](assets/fig2.png)
 <div align="center">
   Figure 1: Overview of the Correlation Guided Multi-Teacher Distillation framework.
 </div>
