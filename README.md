@@ -1,6 +1,6 @@
 <div align="center">
 
-# CGD: Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval
+# Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](https://arxiv.org/) [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
