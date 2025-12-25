@@ -15,7 +15,7 @@
 
 ## ✨ Highlights
 
-- **🤝 Multi-Teacher Correlation Fusion** Unlike naive averaging, our mechanism measures the correlation between teachers to adaptively weight their contributions, effectively filtering out noise and conflicting information.
+- **🤝 Correlation coefficient Fusion** Unlike naive averaging, our mechanism measures the correlation between teachers to adaptively weight their contributions, effectively filtering out noise and conflicting information.
 
 - **📐 Cosine-based PQ** We utilize **Cosine-based Product Quantization** to provide structural similarity supervision, ensuring better directional semantic alignment for the student model.
 
