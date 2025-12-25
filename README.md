@@ -7,7 +7,6 @@
 
 **Official PyTorch implementation of the paper "Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval".**
 
-🚧 **Code coming soon** 🚧
 
 </div>
 
