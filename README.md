@@ -2,7 +2,7 @@
 
 # Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](https://arxiv.org/) [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](10.1016/j.ipm.2025.104583) [![Framework](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **Official PyTorch implementation of the paper "Correlation Guided Multi-Teacher Distillation for Lightweight Image Retrieval".**
